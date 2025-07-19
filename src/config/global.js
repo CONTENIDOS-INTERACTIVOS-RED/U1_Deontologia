@@ -99,27 +99,112 @@ export default {
   },
   referencias: [
     {
-      referencia:
-        'Ardaraz, M. (2002). Teoría de las tres dimensiones de desarrollo sostenible: . Ecosistemas, 11(2)',
-      link:
-        'https://www.revistaecosistemas.net/index.php/ecosistemas/article/view/614',
+      referencia: 'Vila Ramos, B. (2013). Deontología profesional. Dykinson.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/56954',
     },
     {
       referencia:
-        'Beltrán, D. J. (2002). La estrategia de desarrollo sostenible de la Unión Europea en el contexto global: de Río a Johannesburgo. ICE. Revista de Economía, (800).',
-      link: '',
+        'Colegio Odontológico del Perú. (2009). Código de ética y deontología. Colegio Odontológico del Perú.',
+      link:
+        'http://vin.unitru.edu.pe/images/etica/regla/codigo/cell_odontologo.pdf',
+    },
+    {
+      referencia:
+        'Castro, G. (2022). El papel de la ética en la toma de decisiones empresariales. Revista Nexus Enero -junio 2023. Vol. 2 -No. 1.',
+      link: 'https://editorialinnova.com/index.php/nrj/article/view/8/8',
+    },
+    {
+      referencia:
+        'Álvarez Burgos, M. I., Arévalo Lizarazo, G. A. & Rosas Castañeda, N. C. (2023). Ética para administradores de empresas desde la formación integral en la educación superior. Universidad Santo Tomás.',
+      link:
+        'https://www.docsity.com/es/docs/articulo-etica-administracion-de-empresas-universidad-articulo-empresas-etica-universit/11039500/',
+    },
+    {
+      referencia: 'Ricourt, P. (2002). Ética y moral. Veritas, (10).',
+      link:
+        'https://revistachilenadederecho.uc.cl/index.php/veritas/article/download/63289/50607',
+    },
+    {
+      referencia:
+        'Velarde Dávila, L. (2018). Reflexiones sobre la profesión, la deontología y la ética. Review of Global Management, 3(1), 113-116.',
+      link: 'https://revistas.upc.edu.pe/index.php/rgm/article/view/705',
     },
   ],
   glosario: [
     {
-      termino: 'Bioética',
+      termino: 'Autonomía moral',
       significado:
-        'disciplina que estudia las implicaciones éticas, sociales y legales de los avances biológicos y médicos, buscando garantizar que las decisiones en estos campos respeten la dignidad humana, los derechos fundamentales y la justicia social.',
+        'Capacidad de una persona para tomar decisiones éticas basadas en principios propios, sin depender exclusivamente, de normas externas.',
     },
     {
-      termino: '<em>Design Thinking</em>',
+      termino: 'Bien común',
       significado:
-        'método de diseño centrado en el usuario que se basa en la comprensión de las necesidades y expectativas de los clientes, para crear soluciones innovadoras y efectivas.',
+        'Aquello que beneficia simultáneamente a todos los miembros de una comunidad, por encima de los intereses individuales.',
+    },
+    {
+      termino: 'Confidencialidad',
+      significado:
+        'Deber de proteger la información privada o sensible, adquirida en el ejercicio profesional.',
+    },
+    {
+      termino: 'Cultura organizacional',
+      significado:
+        'Conjunto de valores, creencias y prácticas que caracterizan la forma de actuar de una organización.',
+    },
+    {
+      termino: 'Código de ética',
+      significado:
+        'Conjunto de principios y normas que orientan la conducta profesional, dentro de una organización.',
+    },
+    {
+      termino: 'Deliberación ética',
+      significado:
+        'Proceso reflexivo mediante el cual se evalúan diferentes opciones en un dilema moral, considerando valores y consecuencias.',
+    },
+    {
+      termino: 'Dignidad humana',
+      significado:
+        'Reconocimiento del valor intrínseco de toda persona, fundamento de los derechos humanos y de la ética profesional.',
+    },
+    {
+      termino: 'Equidad',
+      significado:
+        'Principio ético que busca tratar a cada persona, según sus necesidades y circunstancias, promoviendo justicia distributiva.',
+    },
+    {
+      termino: 'Integridad',
+      significado:
+        'Coherencia entre los valores éticos personales y las acciones realizadas en la vida profesional.',
+    },
+    {
+      termino: 'Justicia organizacional',
+      significado:
+        'Percepción de equidad en los procedimientos, relaciones y resultados dentro de una organización.',
+    },
+    {
+      termino: 'Norma administrativa',
+      significado:
+        'Regla establecida por una organización, para regular la conducta de sus miembros y garantizar el funcionamiento institucional.',
+    },
+    {
+      termino: 'Participación',
+      significado:
+        'Involucramiento activo de los miembros de una organización, en la toma de decisiones que los afectan.',
+    },
+    {
+      termino: 'Responsabilidad social',
+      significado:
+        'Compromiso voluntario de una organización con el desarrollo sostenible y el bienestar de la sociedad.',
+    },
+    {
+      termino: 'Transparencia',
+      significado:
+        'Principio que exige claridad, honestidad y accesibilidad en la información y acciones de una institución.',
+    },
+    {
+      termino: 'Valores institucionales',
+      significado:
+        'Principios éticos que orientan la misión, visión y prácticas de una organización.',
     },
   ],
 }
