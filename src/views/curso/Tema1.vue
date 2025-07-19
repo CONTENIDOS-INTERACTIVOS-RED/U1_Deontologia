@@ -179,6 +179,10 @@
           img(src="@/assets/curso/tema1/14.png", data-aos="zoom-in")
 
 
+    .titulo-figura.mb-2
+      h5 Tabla 1. 
+      span Principales corrientes filosóficas
+    
     .tabla-a.color-acento-contenido.mb-5
       table
         thead
