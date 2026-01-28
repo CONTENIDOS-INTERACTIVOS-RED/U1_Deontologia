@@ -252,7 +252,7 @@
             .col-lg
               p.mb-0 El contractualismo, representado por pensadores como Thomas Hobbes, John Locke, Jean-Jacques Rousseau y John Rawls, defiende que los principios morales deben fundarse en acuerdos racionales entre individuos libres e iguales. Rawls propone el uso del "velo de la ignorancia" para construir normas imparciales, es decir, como si no se conociera la posición personal que se ocupará en la sociedad.
     
-        p(data-aos="fade-left").mb-4 El contractualismo, representado por pensadores como Thomas Hobbes, John Locke, Jean-Jacques Rousseau y John Rawls, defiende que los principios morales deben fundarse en acuerdos racionales entre individuos libres e iguales. Rawls propone el uso del "velo de la ignorancia" para construir normas imparciales, es decir, como si no se conociera la posición personal que se ocupará en la sociedad.
+        p(data-aos="fade-left").mb-4 En el contexto organizacional, este enfoque promueve procesos democráticos y participativos, como la elaboración conjunta de códigos de ética, o la definición de estructuras salariales equitativas. Fomenta una cultura basada en la legitimidad, la equidad y el consenso ético, entre los miembros de la empresa.
 
 
     h2 Ética del carácter: virtudismo
